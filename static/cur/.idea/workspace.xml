@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88a88ccd-2cf2-44f9-af5a-67f4be0fed8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ethix/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ethix/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ethix/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ethix/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ethix/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ethix/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ethix/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cards/operations/core_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cards/operations/core_cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../smsController.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../smsController.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JupyterTrust" id="e17adbfc-490e-4f3d-9453-b1c44212d046" />
+  <component name="ProjectId" id="1mW96KjvUh8W3dfaiZfZhzBzeAe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88a88ccd-2cf2-44f9-af5a-67f4be0fed8b" name="Default Changelist" comment="" />
+      <created>1609598304167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609598304167</updated>
+      <workItem from="1609598305204" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
